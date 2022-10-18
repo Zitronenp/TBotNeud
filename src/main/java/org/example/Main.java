@@ -10,5 +10,6 @@ public class Main {
         Out out = new Out(processing.data);
         out.consPrint();
 
+
     }
 }
